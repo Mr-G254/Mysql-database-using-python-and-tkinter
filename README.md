@@ -4,8 +4,8 @@ Through this project the use of database has been made simpler
 From queries to pressing of buttons and use of a rich gui.
 
 ## Home page
-<p align="justify">The Home page displays all the databases created by the program and pressing any of the buttons opens the database.</p>
-![Home](Capture3.PNG)
+<p align="justify">The Home page displays all the databases created by the program and pressing any of the buttons opens the database.
+![Home](Capture3.PNG)</p>
 
 ## Database page
 <p align="justify">The database then shows the tables present and the data inside the table.Through this page you can add a column or insert data into the table.</p>
