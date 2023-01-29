@@ -3,7 +3,7 @@
 Through this project the use of database has been made simpler
 From queries to pressing of buttons and use of a rich gui
 
-#Home page
+# Home page
 The Home page displays all the databases created by the program and pressing any of the buttons opens the database.
 ![Home](Capture3.PNG)
 
