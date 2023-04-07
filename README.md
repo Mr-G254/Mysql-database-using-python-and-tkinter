@@ -1,7 +1,7 @@
 # Mysql-database-using-python-and-tkinter
 
-Through this project the use of database has been made simpler\n
-From queries to pressing of buttons and use of a rich gui.
+Through this project the use of database has been made simpler. From queries to pressing of buttons and use of a rich GUI. For these code to work one must 
+have installed MySQL server on their device and configured it.
 
 ## Home page
 
